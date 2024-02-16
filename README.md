@@ -1,4 +1,4 @@
-# This repo is to help visualise some of the waves I've looked at in Waves, Mathematical Modelling
+# This repo is to help visualise some of the waves I've analysed in my University module: Waves, Mathematical Modelling
 
 ### The primary language used is MATLAB but I might try out some animations with Python soon aswell. 
 Various example gifs are already uploaded in the repo but the MATLAB files are there to change paramaters or to use to generate travelling waves for other functions.
