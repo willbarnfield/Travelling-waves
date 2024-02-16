@@ -4,6 +4,8 @@
 Various example gifs are already uploaded in the repo but the MATLAB files are there to change paramaters or to use to generate travelling waves for other functions.
 
 The gif seen below is described by the following function:
-$x^2$
+
+$x^2 = \case{x^2 & 2 \\
+x & 0}$
 
 <img src=https://github.com/willbarnfield/Travelling-waves/blob/main/one_triangle_travelling_wave.gif alt="one_triangle_travelling_wave.gif" width="400" height="300" style="margin:auto:0px; display: block; max-width: 100%;">
