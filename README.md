@@ -7,4 +7,4 @@ The gif seen below is described by the travelling wave with initial deflection $
 
 <img src="https://latex.codecogs.com/png.image?\dpi{150}\bg{white}h(x)=\begin{cases}1-|x|,&|x|<1\\0,&|x|>1\end{cases}" title="h(x)=\begin{cases}1-|x|,&|x|<1\\0,&|x|>1\end{cases}" />
 
-<img src=https://github.com/willbarnfield/Travelling-waves/blob/main/one_triangle_travelling_wave.gif alt="one_triangle_travelling_wave.gif" width="400" height="300" style="margin:auto:0px; display: block; max-width: 100%;">
+<img src=https://github.com/willbarnfield/Travelling-waves/blob/main/animations/one_triangle_travelling_wave.gif alt="one_triangle_travelling_wave.gif" width="400" height="300" style="margin:auto:0px; display: block; max-width: 100%;">
