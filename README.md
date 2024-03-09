@@ -3,6 +3,7 @@
 ### The primary language used is MATLAB but I might try out some animations with Python soon aswell. 
 
 Various example gifs are already uploaded in the repo but the MATLAB files are there to change paramaters or to use to generate travelling waves for other functions.
+I'm sure there will be a better way to generate the travelling waves but this was just my method!
 
 The gif seen below is described by the travelling wave with initial deflection $u(x,0) \equiv h(x)$ given by the following function ($u_t(x,0)=0$)
 
